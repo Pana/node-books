@@ -1,16 +1,20 @@
-Books
+Node Books
 ======
 
 * 深入浅出Node.js-田永强
-* howtowritenodejsmodule(ppt)
-* build node application with mongodb and backbone
-* hypermedia apis with html5&node
-* jump start node js
-* Node cookbook
+* Node Cookbook
+* Build node application with mongodb and backbone
+* Hypermedia apis with html5&node
+* Jump start node js
 * Node for front end developer
-* node up and running
-* node web development
-* node.js for php developers
+* Node up and running
+* Node web development
+* Node.js for php developers
 * Nodejs 中文文档
-* nodejs-wiki-book
-* professional nodejs
+* Nodejs-wiki-book
+* Professional Node.js
+* How to write nodejs module(ppt)
+
+
+TODO:
+    add picture, link, author, intro to books.
