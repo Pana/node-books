@@ -5,78 +5,28 @@
     <title>Node.js Books</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="./assets/favicon.ico">
-    <meta name='keywords' content='Node.js books'/>
-    <meta name='description' content=''/>
+    <meta name='keywords' content='Node.js, book, Node, 深入浅出Node.js, in action, js, javascript'/>
+    <meta name='description' content='A collecion of books about Node.js'/>
     <meta name='author' content='Pana Wang'/>
     <link rel="stylesheet" type="text/css" href="./assets/pure-min.css">
-    <script type="text/javascript" src="./assets/zepto.min.js"></script>
     <script type="text/javascript" src="./assets/ejs.min.js"></script>
     <script type="text/javascript" src="./assets/data.js"></script>
     <!--[if lt IE 9]>
       <script src="/assets/html5shiv.js"></script>
     <![endif]-->
     <style type="text/css">
-
-        body {
-            font-size: 13px;
-        }
-        header h1{
-            font-size: 400%;
-            margin: 30px 0px 45px 50px;
-            padding: 0;
-            color: #5eb95e;
-            font-weight: 100;
-        }
-
-        .info{
-            word-wrap: break-word;
-            padding: 10px 0px 10px 50px;
-            border: 1px solid #eee;
-            color: #333;
-            background: rgb(250, 250, 250);
-        }
-
-        .item{
-            padding-left: 50px;
-            border-bottom: 1px dashed #ccc;
-        }
-
-        .left{
-            padding-top: 10px;
-            float: left;
-            width: 120px;
-        }
-
-        .right{
-            float: left;
-        }
-
-        .right p{
-            line-height: 7px;
-        }
-        .right p span{
-            color: #666;
-        }
-        .clear{
-            clear: both;
-        }
-        a:visited {
-            color: #265778;
-        }
-        a:active, a:hover {
-            outline: 0;
-        }
-        a {
-            color: #3b8bba;
-            text-decoration: none;
-        }
-
-        footer{
-            height: 50px;
-            padding: 20px 0px 0px 50px;
-            color: #666;
-        }
+        body{font-size:13px;}header h1{font-size:400%;margin:30px 0px 45px 50px;padding:0;color:#5eb95e;font-weight:100;}.info{word-wrap:break-word;padding:10px 0px 10px 50px;border:1px solid #eee;color:#333;background:rgb(250,250,250);}.item{padding-left:50px;border-bottom:1px dashed #ccc;}.left{padding-top:10px;float:left;width:120px;}.right{float:left;}.right p{line-height:7px;}.right p span{color:#666;}.clear{clear:both;}a:visited{color:#265778;}a:active,a:hover{outline:0;}a{color:#3b8bba;text-decoration:none;}footer{height:50px;padding:20px 0px 0px 50px;color:#666;}
     </style>
+
+    <!-- 渲模板 -->
+    <script type="text/javascript">
+        window.onload = function(){
+            var template = document.getElementById('book_item').text
+                , body = document.getElementById('body')
+            body.innerHTML = ejs.render(template, {books: book_data})
+        }
+    </script>
+
 </head>
 <body>
     <header>
@@ -87,7 +37,7 @@
         共16本书, 2本中文
     </div>
 
-    <div class='body'>
+    <div id='body'>
     </div>
     
     <footer>
@@ -126,7 +76,5 @@
     <a href="https://github.com/pana/node-books" target="_blank">
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="./assets/forkme_right_green_007200.png" alt="Fork me on GitHub">
     </a>
-    <!-- app js -->
-    <script type="text/javascript" src='./assets/app.js'></script>
 </body>
 </html>

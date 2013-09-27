@@ -1,13 +1,21 @@
 var book_data = [{
     "href": "http://www.ppurl.com/2013/07/smashing-node-js.html",
-    "name": "Smashing Node.js",
-    "author": "Guillermo Rauch",
-    "alias": "JavaScript Everywhere",
+    "name": "深入浅出Node.js",
+    "author": "田永强",
     "press_date": "2012",
-    "press": "Wiley Publishing",
+    "press": "InfoQ",
     "page_num": "324",
     "image": "smashing_nodejs.jpg",
     "ISBN": "978-1-119-96259-5"
+},{
+    "href": "http://www.ppurl.com/2012/12/node-js%e5%bc%80%e5%8f%91%e6%8c%87%e5%8d%97.html",
+    "name": "Node.JS开发指南",
+    "author": "郭家寶（BYVoid）",
+    "press_date": "2012-7",
+    "press": "人民邮电press",
+    "page_num": "178",
+    "image": "nodejs_kaifa_zhinan.jpg",
+    "ISBN": "9787115283993"
 }, {
     "href": "http://www.ppurl.com/2013/05/node-js-in-action.html",
     "name": "Node.js in Action",
@@ -17,6 +25,44 @@ var book_data = [{
     "page_num": "300",
     "image": "nodejs_in_action.jpg",
     "ISBN": "9781617290572"
+}, {
+    "href": "http://www.ppurl.com/2012/10/professional-node-js-building-javascript-based-scalable-software.html",
+    "name": "Professional Node.js: Building Javascript Based Scalable Software",
+    "author": "PEDRO TEIXEIRA",
+    "press_date": "October 2012",
+    "press": "Wrox Press",
+    "page_num": "408 pages",
+    "image": "professional_nodejs.jpg",
+    "ISBN": "978-1118185469"
+}, {
+    "href": "http://www.ppurl.com/2012/08/node-cookbook.html",
+    "name": "Node Cookbook",
+    "author": "David Mark Clements",
+    "press_date": "July 2012",
+    "press": "其它",
+    "page_num": "342",
+    "image": "node_cookbook.jpg",
+    "ISBN": "978-1849517188"
+},{
+    "href": "http://www.ppurl.com/2013/07/smashing-node-js.html",
+    "name": "Smashing Node.js",
+    "author": "Guillermo Rauch",
+    "alias": "JavaScript Everywhere",
+    "press_date": "2012",
+    "press": "Wiley Publishing",
+    "page_num": "324",
+    "image": "smashing_nodejs.jpg",
+    "ISBN": "978-1-119-96259-5"
+}, {
+    "href": "http://www.ppurl.com/2011/09/node-web-development.html",
+    "name": "Node Web Development",
+    "author": "David Herron",
+    "alias": "A practical introduction to Node, the exciting new server-side JavaScript web development stack",
+    "press_date": "August 2011",
+    "press": "其它",
+    "page_num": "172",
+    "image": "node_web_development.png",
+    "ISBN": "978-1-84951-514-6"
 }, {
     "href": "http://www.ppurl.com/2013/02/coffeescript-programming-with-jquery-rails-and-node-js.html",
     "name": "CoffeeScript Programming with jQuery, Rails, and Node.js",
@@ -46,15 +92,6 @@ var book_data = [{
     "image": "node_applications.jpg",
     "ISBN": "978-1-449-33739-1"
 }, {
-    "href": "http://www.ppurl.com/2012/12/node-js%e5%bc%80%e5%8f%91%e6%8c%87%e5%8d%97.html",
-    "name": "Node.JS开发指南",
-    "author": "郭家寶（BYVoid）",
-    "press_date": "2012-7",
-    "press": "人民邮电press",
-    "page_num": "178",
-    "image": "nodejs_kaifa_zhinan.jpg",
-    "ISBN": "9787115283993"
-}, {
     "href": "http://www.ppurl.com/2012/12/jump-start-node-js.html",
     "name": "Jump Start Node.js",
     "author": "Don Nguyen",
@@ -64,15 +101,6 @@ var book_data = [{
     "image": "jump_start_nodejs.png",
     "ISBN": "0987332104"
 }, {
-    "href": "http://www.ppurl.com/2012/10/professional-node-js-building-javascript-based-scalable-software.html",
-    "name": "Professional Node.js: Building Javascript Based Scalable Software",
-    "author": "PEDRO TEIXEIRA",
-    "press_date": "October 2012",
-    "press": "Wrox Press",
-    "page_num": "408 pages",
-    "image": "professional_nodejs.jpg",
-    "ISBN": "978-1118185469"
-}, {
     "href": "http://www.ppurl.com/2012/10/learning-node.html",
     "name": "Learning Node",
     "author": "Shelley Powers",
@@ -81,15 +109,6 @@ var book_data = [{
     "page_num": "394",
     "image": "learning_node.jpg",
     "ISBN": "978-1-449-32307-3"
-}, {
-    "href": "http://www.ppurl.com/2012/08/node-cookbook.html",
-    "name": "Node Cookbook",
-    "author": "David Mark Clements",
-    "press_date": "July 2012",
-    "press": "其它",
-    "page_num": "342",
-    "image": "node_cookbook.jpg",
-    "ISBN": "978-1849517188"
 }, {
     "href": "http://www.ppurl.com/2012/06/node-js-%e4%b8%ad%e6%96%87%e6%96%87%e6%a1%a3.html",
     "name": "node js 中文文档",
@@ -126,16 +145,6 @@ var book_data = [{
     "page_num": "242",
     "image": "build_hypermedia_apis.jpg",
     "ISBN": "9781449306571"
-}, {
-    "href": "http://www.ppurl.com/2011/09/node-web-development.html",
-    "name": "Node Web Development",
-    "author": "David Herron",
-    "alias": "A practical introduction to Node, the exciting new server-side JavaScript web development stack",
-    "press_date": "August 2011",
-    "press": "其它",
-    "page_num": "172",
-    "image": "node_web_development.png",
-    "ISBN": "978-1-84951-514-6"
 }, {
     "href": "http://www.ppurl.com/2011/07/getting-started-with-geo-couchdb-and-node-js.html",
     "name": "Getting Started with GEO, CouchDB, and Node.js",
