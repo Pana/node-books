@@ -1,4 +1,4 @@
-Node Books
+Node.js Books
 ======
 
 * 深入浅出Node.js-田永强
@@ -15,9 +15,8 @@ Node Books
 * Professional Node.js
 * How to write nodejs module(ppt)
 
-
 TODO:
-    add picture, link, author, intro to books
+add picture, link, author, intro to books
 
 
 建立 gh-pages分支, 生成网页, 方便访问
