@@ -1,12 +1,12 @@
 var book_data = [{
-    "href": "http://www.ppurl.com/2013/07/smashing-node-js.html",
+    "href": "http://www.infoq.com/cn/master-nodejs",
     "name": "深入浅出Node.js",
     "author": "田永强",
     "press_date": "2012",
     "press": "InfoQ",
     "page_num": "324",
-    "image": "smashing_nodejs.jpg",
-    "ISBN": "978-1-119-96259-5"
+    "image": "shenru_qianchu.png",
+    "ISBN": ""
 },{
     "href": "http://www.ppurl.com/2012/12/node-js%e5%bc%80%e5%8f%91%e6%8c%87%e5%8d%97.html",
     "name": "Node.JS开发指南",
