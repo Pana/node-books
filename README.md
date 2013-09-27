@@ -20,9 +20,3 @@ Node.js Books
 * Getting Started with GEO, CouchDB & Node.js
 * CoffeScript Programming with jQuery, Rails, and Node.js
 * Learning Node
-
-TODO:
-add picture, link, author, intro to books
-
-
-建立 gh-pages分支, 生成网页, 方便访问
