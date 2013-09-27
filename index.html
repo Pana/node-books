@@ -10,7 +10,7 @@
     <meta name='author' content='Pana Wang'/>
     <link rel="stylesheet" type="text/css" href="./assets/pure-min.css">
     <script type="text/javascript" src="./assets/ejs.min.js"></script>
-    <script type="text/javascript" src="./assets/data.js"></script>
+    <script type="text/javascript" src="./assets/data.min.js"></script>
     <!--[if lt IE 9]>
       <script src="/assets/html5shiv.js"></script>
     <![endif]-->
@@ -65,7 +65,9 @@
                 <p><span>出版日期:</span> <%= book.press_date %></p>
                 <p><span>出版社:</span> <%= book.press %></p>
                 <p><span>页数:</span> <%= book.page_num %> </p>
+                <%if(boo.ISBN){%>
                 <p><span>ISBN:</span> <%= book.ISBN %></p>
+                <%}%>
             </div>
             <div class='clear'></div>
         </div>

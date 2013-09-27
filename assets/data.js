@@ -4,7 +4,7 @@ var book_data = [{
     "author": "田永强",
     "press_date": "2012",
     "press": "InfoQ",
-    "page_num": "324",
+    "page_num": "67",
     "image": "shenru_qianchu.png",
     "ISBN": ""
 },{
