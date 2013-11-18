@@ -27,6 +27,7 @@ Node.js Books
 在PPT文件夹中.
 
 * Node.js road to 1.0 - Issac
+* What make Node.js fast - Tim Caswell
 
 # Contribute
 如果发现更好的书籍和资料可以提交到本项目或email我 pana.wang@outlook.com
