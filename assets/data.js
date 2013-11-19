@@ -1,12 +1,12 @@
 var book_data = [{
-    "href": "http://www.infoq.com/cn/master-nodejs",
+    "href": "http://book.douban.com/subject/25768396/",
     "name": "深入浅出Node.js",
     "author": "田永强",
-    "press_date": "2012",
-    "press": "InfoQ",
-    "page_num": "67",
-    "image": "shenru_qianchu.png",
-    "ISBN": ""
+    "press_date": "2013-12",
+    "press": "人民邮电出版社",
+    "page_num": "348",
+    "image": "diveinto-nodejs.jpg",
+    "ISBN": "9787115335500"
 },{
     "href": "http://www.ppurl.com/2012/12/node-js%e5%bc%80%e5%8f%91%e6%8c%87%e5%8d%97.html",
     "name": "Node.JS开发指南",
@@ -25,6 +25,15 @@ var book_data = [{
     "page_num": "300",
     "image": "nodejs_in_action.jpg",
     "ISBN": "9781617290572"
+},{
+    "href": "http://www.infoq.com/cn/master-nodejs",
+    "name": "深入浅出Node.js(InfoQ小书)",
+    "author": "田永强",
+    "press_date": "2012",
+    "press": "InfoQ",
+    "page_num": "67",
+    "image": "shenru_qianchu.png",
+    "ISBN": ""
 }, {
     "href": "http://www.ppurl.com/2012/10/professional-node-js-building-javascript-based-scalable-software.html",
     "name": "Professional Node.js: Building Javascript Based Scalable Software",
