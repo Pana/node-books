@@ -54,7 +54,7 @@ var book_data = [{
     "ISBN": "978-1849517188"
 },{
     "href": "http://www.ppurl.com/2013/07/smashing-node-js.html",
-    "name": "Smashing Node.js",
+    "name": "Smashing Node.js(有Goddy Zhao翻译的中文版)",
     "author": "Guillermo Rauch",
     "alias": "JavaScript Everywhere",
     "press_date": "2012",
