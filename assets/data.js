@@ -16,6 +16,25 @@ var book_data = [{
     "page_num": "178",
     "image": "nodejs_kaifa_zhinan.jpg",
     "ISBN": "9787115283993"
+},{
+    "href": "http://www.ppurl.com/2013/12/node-js%e5%85%a5%e9%97%a8%e7%bb%8f%e5%85%b8.html",
+    "name": "Node.js入门经典",
+    "author": "（英）奥尔波",
+    "press_date": "2013-4",
+    "press": "人民邮电出版社",
+    "page_num": "338",
+    "image": "node-rumen-manual.jpg",
+    "ISBN": "978-7-115-31107-8"
+},{
+    "href": "http://www.ppurl.com/2013/11/node-js%e5%85%a5%e9%97%a8%e6%89%8b%e5%86%8c.html",
+    "name": "NODE.js入门手册",
+    "alias": "The Node Beginner Book",
+    "author": "Manuel Kiessling",
+    "press_date": "2012",
+    "press": "Apress",
+    "page_num": "77",
+    "image": "node-rumen.png",
+    "ISBN": "9780136117261"
 }, {
     "href": "http://www.ppurl.com/2013/05/node-js-in-action.html",
     "name": "Node.js in Action",
