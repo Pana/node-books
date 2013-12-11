@@ -22,6 +22,8 @@ Node.js Books
 * Getting Started with GEO, CouchDB & Node.js
 * CoffeScript Programming with jQuery, Rails, and Node.js
 * Learning Node
+* Node入门经典
+* Node入门
 
 # PPT
 在PPT文件夹中.
