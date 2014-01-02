@@ -31,5 +31,18 @@ Node.js Books
 * Node.js road to 1.0 - Issac
 * What make Node.js fast - Tim Caswell
 
+
+# 相关资源
+
+* [it-ebooks](http://it-ebooks.info/tag/node/)
+* [Node.js the Right Way: Practical, Server-Side JavaScript That Scales](http://pragprog.com/book/jwnode/node-js-the-right-way)
+* [7 Free E-Books and Tutorials for Learning and Mastering Node.js](http://readwrite.com/2011/04/02/6-free-e-books-on-nodejs#awesm=~orKnPZLac2dyXZ)
+* [mastering nodejs](http://visionmedia.github.io/masteringnode/)
+* [10 Books for the Javascript and Node.js learner](http://www.alolo.co/blog/2013/10/11/10-books-on-javascript)
+* [Express web application development](http://expressjs-book.com/)
+* [Mixu's Node book](http://book.mixu.net/node/)
+* [The nodejs recipe](http://www.amazon.com/Node-js-Recipes-A-Problem-Solution-Approach/dp/1430260580/ref=sr_1_18?ie=UTF8&qid=1388627125&sr=8-18&keywords=nodejs)
+* [Hands on nodejs](http://nodetuts.com/handson-nodejs-book.html)
+
 # Contribute
 如果发现更好的书籍和资料可以提交到本项目或email我 pana.wang@outlook.com
