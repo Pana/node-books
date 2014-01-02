@@ -43,6 +43,7 @@ Node.js Books
 * [Mixu's Node book](http://book.mixu.net/node/)
 * [The nodejs recipe](http://www.amazon.com/Node-js-Recipes-A-Problem-Solution-Approach/dp/1430260580/ref=sr_1_18?ie=UTF8&qid=1388627125&sr=8-18&keywords=nodejs)
 * [Hands on nodejs](http://nodetuts.com/handson-nodejs-book.html)
+* [Node security](http://www.packtpub.com/secure-your-node-applications-with-node-security/book)
 
 # Contribute
 如果发现更好的书籍和资料可以提交到本项目或email我 pana.wang@outlook.com
