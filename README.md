@@ -25,10 +25,12 @@ For those who love Node.js
 
 ### [Smashing Node.js](http://book.douban.com/subject/25767596/)
 ![](http://img3.douban.com/mpic/s27132823.jpg)
+
 中文名了不起的Node.js, 比较详细的介绍了Node.js相关内容, 中文版由Goddy Zhao翻译.
 
 ### [Node.js in action](http://book.douban.com/subject/6805117/)
 ![](http://img3.douban.com/mpic/s27194543.jpg)
+
 非常有名的Node.js书籍, 建议入门者使用学习
 
 
