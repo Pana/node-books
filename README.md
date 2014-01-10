@@ -19,13 +19,17 @@ For those who love Node.js
 ### [深入浅出Node.js(Diving into Node.js)](http://book.douban.com/subject/25768396/)
 ![](http://img5.douban.com/mpic/s27134708.jpg)
 
-国内Node.js步道者朴灵花费多年时间编写的高级Node.js图书
+国内Node.js步道者朴灵花费多年时间编写的高级Node.js图书, 2013年国内最火原创图书. 深入介绍了Node.js内部机制原理
+异步IO, 事件循环, 模块系统, http等, 对Node.js主要部分都进行了深入的介绍和剖析, 是Node.js开发者绝对不能错过的
+高级书籍.
 
 ### [Smashing Node.js](http://book.douban.com/subject/25767596/)
 ![](http://img3.douban.com/mpic/s27132823.jpg)
+中文名了不起的Node.js, 比较详细的介绍了Node.js相关内容, 中文版由Goddy Zhao翻译.
 
 ### [Node.js in action](http://book.douban.com/subject/6805117/)
 ![](http://img3.douban.com/mpic/s27194543.jpg)
+非常有名的Node.js书籍, 建议入门者使用学习
 
 
 # Book list
