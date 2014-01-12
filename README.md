@@ -35,7 +35,7 @@ For those who love Node.js
 
 
 # Book list
-For details you can visit [Github Page](https://github.com/Pana/node-books)
+For details you can visit [Github Page](https://book.rednode.cn)
 
 * 深入浅出 Node.js(info小书)--田永强(朴灵)
 * Node.js 开发指南--郭家宝(BYvoid)
