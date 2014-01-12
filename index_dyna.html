@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Node.js Books -- For those who love Node.js</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/favicon.ico">
+    <meta name='keywords' content='Node.js, book, books, Node, 书, Nodejs, in action, js, javascript'/>
+    <meta name='description' content='A collecion of books about Node.js'/>
+    <meta name='author' content='Pana Wang'/>
+    <link rel="stylesheet" type="text/css" href="./assets/pure-min.css">
+    <script type="text/javascript" src="./assets/ejs.min.js"></script>
+    <script type="text/javascript" src="./assets/data.min.js"></script>
+    <!--[if lt IE 9]>
+      <script src="/assets/html5shiv.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        body{font-size:13px;}header h1{font-size:400%;margin:30px 0px 45px 50px;padding:0;color:#0e90d2;font-weight:100;display:inline-block;}header p{display:inline-block;margin-left:15px;color:#5eb95e;font-size:20px;font-weight:80;}.info{word-wrap:break-word;padding:10px 0px 10px 50px;border:1px solid #eee;color:#333;background:rgb(250,250,250);}.item{padding-left:50px;border-bottom:1px dashed #ccc;}.left{padding-top:10px;float:left;width:120px;}.right{float:left;}.right p{line-height:7px;}.right p span{color:#666;}.clear{clear:both;}a:visited{color:#265778;}a:active,a:hover{outline:0;}a{color:#3b8bba;text-decoration:none;}footer{height:50px;padding:20px 0px 0px 50px;color:#666;}.item .left img{max-width: 100px;}
+    </style>
+
+    <!-- 渲模板 -->
+    <script type="text/javascript">
+        window.onload = function(){
+            var template = document.getElementById('book_item').text
+                , body = document.getElementById('body')
+
+            console.log(ejs.render(template, {books: book_data}))
+            body.innerHTML = ejs.render(template, {books: book_data})
+        }
+    </script>
+
+</head>
+<body>
+    <header>
+        <h1>Node.js Books</h1>  <p>--- For those who love Node.js</p>      
+    </header>
+    <div class='info'>
+        共20本书, 4本中文, 更多内容 Fork me on Github
+    </div>
+    <div id='body'>
+    </div>
+    <footer>
+        &copy; <a href='mailto:pana.wang@outlook.com'>Pana Wang</a> 2013
+    </footer>
+    <!-- 模板 -->
+    <script type="text/template" id='book_item'>
+        <% for(var i in books){ %>
+        <% var book = books[i]; %>
+        <div class='item'>
+            <div class='left'>
+                <img src="./covers/<%= book.image %>">
+            </div>
+            <div class='right'>
+                <p><span>书名:</span> 
+                    <a href='<%= book.href %>'>
+                        <%= book.name %>
+                    </a>
+                </p>
+                <p><span>作者:</span> <%= book.author %></p>
+                <% if(book.alias){ %>
+                <p><span>副书名:</span> <%= book.alias %></p>
+                <%}%>
+                <p><span>出版日期:</span> <%= book.press_date %></p>
+                <p><span>出版社:</span> <%= book.press %></p>
+                <p><span>页数:</span> <%= book.page_num %> </p>
+                <%if(book.ISBN){%>
+                <p><span>ISBN:</span> <%= book.ISBN %></p>
+                <%}%>
+            </div>
+            <div class='clear'></div>
+        </div>
+        <%}%>
+    </script>
+    <!-- github ribbon-->
+    <a href="https://github.com/pana/node-books" target="_blank">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="./assets/forkme_right_green_007200.png" alt="Fork me on GitHub">
+    </a>
+</body>
+</html>
