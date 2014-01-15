@@ -70,6 +70,7 @@ In the PPT folder.
 
 # Resource
 
+* [free develop books--node](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#nodejs)
 * [豆瓣读书-Node.js高级编程](http://book.douban.com/subject_search?search_text=Node.js%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B&cat=1001)
 * [豆瓣读书-Node.js](http://book.douban.com/subject_search?search_text=Node.js&cat=1001)
 * [it-ebooks](http://it-ebooks.info/tag/node/)
