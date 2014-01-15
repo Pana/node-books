@@ -2,6 +2,8 @@ Node.js Books
 ======
 For those who love Node.js
 
+For details visit [here](http://book.rednode.cn).
+
 
 # Recommendation
 
