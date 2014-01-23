@@ -73,6 +73,7 @@ In the PPT folder.
 * [free develop books--node](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#nodejs)
 * [豆瓣读书-Node.js高级编程](http://book.douban.com/subject_search?search_text=Node.js%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B&cat=1001)
 * [豆瓣读书-Node.js](http://book.douban.com/subject_search?search_text=Node.js&cat=1001)
+* [Amazon Node.js books](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=node.js&sprefix=node.js%2Caps&rh=i%3Aaps%2Ck%3Anode.js)
 * [it-ebooks](http://it-ebooks.info/tag/node/)
 * [Node.js the Right Way: Practical, Server-Side JavaScript That Scales](http://pragprog.com/book/jwnode/node-js-the-right-way)
 * [7 Free E-Books and Tutorials for Learning and Mastering Node.js](http://readwrite.com/2011/04/02/6-free-e-books-on-nodejs#awesm=~orKnPZLac2dyXZ)
