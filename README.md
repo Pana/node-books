@@ -35,6 +35,10 @@ For details visit [here](http://book.rednode.cn).
 
 非常有名的Node.js书籍, 建议入门者使用学习
 
+### [art of node](https://github.com/maxogden/art-of-node)
+This is a github repository, and a short introduction to node.js.
+提供交互式的学习 Node.js 的方法.
+
 
 # Book list
 For details you can visit [Github Page](https://book.rednode.cn)
