@@ -1,9 +1,8 @@
 Node.js Books
 ======
-For those who love Node.js
+This is the most complete  Node.js books collection ever. There are more than twenty books here, most are written in English, and some are written in Chinese. Some are introduction books that can help you get the basic things about Node.js, such as `Node.js开发指南`, `Node.js in action`, `Learning Node`. Some are pro books can lead you to Node.js deep things, such as `深入浅出Node.js`, `Professional nodejs`, `Pro Node.js for Developers`. No matter what kind developer you are, you can find book right for you. There are also some book links of Amazon, Douban and other sites.
 
-For details visit [here](http://book.rednode.cn).
-
+For whole book list and details visit [here](http://book.rednode.cn).
 
 # Recommendation
 
@@ -64,6 +63,9 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Learning Node
 * Node入门经典
 * Node入门
+* Node.js Recipes
+* Pro Node.js for Developers
+* [expressjs-book](http://expressjs-book.com/)
 
 # PPT
 In the PPT folder.
@@ -74,6 +76,7 @@ In the PPT folder.
 
 # Resource
 
+* [Github node book repositories](https://github.com/search?q=node+book&ref=cmdform)
 * [free develop books--node](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#nodejs)
 * [豆瓣读书-Node.js高级编程](http://book.douban.com/subject_search?search_text=Node.js%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B&cat=1001)
 * [豆瓣读书-Node.js](http://book.douban.com/subject_search?search_text=Node.js&cat=1001)
@@ -89,5 +92,34 @@ In the PPT folder.
 * [Hands on nodejs](http://nodetuts.com/handson-nodejs-book.html)
 * [Node security](http://www.packtpub.com/secure-your-node-applications-with-node-security/book)
 
+# TODO
+
+* Collect more books
+* Add simple intro to books
+
+
 # Contribute
-If you find some new, good books or PPT, you can commit to this project or email me `pana.wang@outlook.com`
+If you find some new, good books or PPT, feel free to fork and pull or email me `pana.wang@outlook.com`, we will appreciate for your contribution.
+
+## LICENSE
+The MIT License (MIT)
+
+Copyright (c) 2013 Pana Wang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
