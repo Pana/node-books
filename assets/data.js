@@ -8,6 +8,24 @@ var book_data = [{
     "image": "diveinto-nodejs.jpg",
     "ISBN": "9787115335500"
 },{
+    "href": "http://www.ppurl.com/2014/01/pro-node-js-for-developers.html",
+    "name": "Pro Node.js for Developers",
+    "author": "Colin Ihrig",
+    "press_date": "November 25, 2013",
+    "press": "Apress",
+    "page_num": "308",
+    "image": "pro-nodejs-for-developers.jpg",
+    "ISBN": "1430258608"
+},{
+    "href": "http://www.ppurl.com/2013/12/node-js-recipes.html",
+    "name": "Node.js Recipes",
+    "author": "Cory Gackenheimer",
+    "press_date": "October 2013",
+    "press": "Apress",
+    "page_num": "376",
+    "image": "nodejs-recips.jpg",
+    "ISBN": "1430260580"
+},{
     "href": "http://www.ppurl.com/2012/12/node-js%e5%bc%80%e5%8f%91%e6%8c%87%e5%8d%97.html",
     "name": "Node.JS开发指南",
     "author": "郭家寶（BYVoid）",
