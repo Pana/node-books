@@ -4,6 +4,8 @@ This is the most complete  Node.js books collection ever. There are more than tw
 
 For whole book list and details visit [here](http://book.rednode.cn).
 
+If you are a new gue to JavaScript world, there are also some book in `Js-books` folder can help you.
+
 # Recommendation
 
 ### [Node.js 开发指南](http://book.douban.com/subject/10789820/)
