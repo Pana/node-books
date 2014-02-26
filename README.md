@@ -4,9 +4,58 @@ This is the most complete  Node.js books collection ever. There are more than tw
 
 For whole book list and details visit [here](http://book.rednode.cn).
 
-If you are a new guy to JavaScript world, there are also some book in `Js-books` folder can help you.
+If you are a new guy to JavaScript world, there are also some JavaScript books in `Js-books` folder can help you.
 
 # Recommendation
+
+### [Express Web Application development](http://expressjs-book.com/)
+![](http://expressjs-book.com/wp-content/themes/ewad/book.png)
+
+This book is about the third major version of Express, the Node.js web framework - Express 3.
+
+Express is recognized as one of the most preferred web frameworks for Node.js. Every day new developers from varied backgrounds and experience come to Express for developing their web apps. With its ever-growing popularity, it is about time we had a book on Express.
+
+The book is both beginner-friendly and technically deep at the same time, and covers everything a developer requires to get into serious web development using Express.
+
+### [Node.js in action](http://www.manning.com/cantelon/)
+![](http://img3.douban.com/mpic/s27194543.jpg)
+
+Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.
+
+
+### [深入浅出Node.js (Diving into Node.js)](http://book.douban.com/subject/25768396/)
+![](http://img5.douban.com/mpic/s27134708.jpg)
+
+国内 Node.js 步道者朴灵花费多年时间编写的高级 Node.js 图书, 2013年国内最火原创图书. 深入介绍了Node.js内部机制原理
+异步IO, 事件循环, 模块系统, http等, 对Node.js主要部分都进行了深入的介绍和剖析, 是Node.js开发者绝对不能错过的
+高级书籍.
+
+### [Smashing Node.js](http://smashingnode.com/)
+![](http://img3.douban.com/mpic/s27132823.jpg)
+
+Highlights: 
+
+* Special foreword by the creator of V8, Lars Bak. 
+* Examples with real-world web services like Twitter. 
+* Learn how to build a Turntable.FM style app with socket.io.
+* Teaches JavaScript best pratices that apply to all environments.
+
+### [Professional Node.js](http://it-ebooks.info/book/984/)
+![](http://it-ebooks.info/images/ebooks/2/professional_node.js.jpg)
+
+Node.js is a powerful and popular new framework for writing scalable network programs using JavaScript. This no nonsense book begins with an overview of Node.js and then quickly dives into the code, core concepts, and APIs. In-depth coverage pares down the essentials to cover debugging, unit testing, and flow control so that you can start building and testing your own modules right away.
+
+If you already know JavaScript and are curious about the power of Node.js, then this is the ideal book for you.
+
+
+### [The node beginner book](http://www.nodebeginner.org/)
+![](http://www.nodebeginner.org/the_node_beginner_book_cover_small.png) ![](http://www.nodebeginner.org/hands-on_node.js_cover.png)
+
+A comprehensive Node.js tutorial for beginners: Learn how to build a full blown web application with server-side JavaScript.
+
+### [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
+An early node.js beginner guide.
+
 
 ### [Node.js 开发指南](http://book.douban.com/subject/10789820/)
 ![](http://img5.douban.com/mpic/s10307479.jpg)
@@ -19,26 +68,9 @@ If you are a new guy to JavaScript world, there are also some book in `Js-books`
 
 一本入门级Node.js图书,
 
-### [深入浅出Node.js(Diving into Node.js)](http://book.douban.com/subject/25768396/)
-![](http://img5.douban.com/mpic/s27134708.jpg)
 
-国内Node.js步道者朴灵花费多年时间编写的高级Node.js图书, 2013年国内最火原创图书. 深入介绍了Node.js内部机制原理
-异步IO, 事件循环, 模块系统, http等, 对Node.js主要部分都进行了深入的介绍和剖析, 是Node.js开发者绝对不能错过的
-高级书籍.
-
-### [Smashing Node.js](http://book.douban.com/subject/25767596/)
-![](http://img3.douban.com/mpic/s27132823.jpg)
-
-中文名了不起的Node.js, 比较详细的介绍了Node.js相关内容, 中文版由Goddy Zhao翻译.
-
-### [Node.js in action](http://book.douban.com/subject/6805117/)
-![](http://img3.douban.com/mpic/s27194543.jpg)
-
-非常有名的Node.js书籍, 建议入门者使用学习
-
-### [art of node](https://github.com/maxogden/art-of-node)
-This is a github repository, and a short introduction to node.js.
-提供交互式的学习 Node.js 的方法.
+### [Art of node](https://github.com/maxogden/art-of-node)
+This is a github repository book, provice and a short introduction to node.js and interactive way learning Node.js
 
 
 # Book list
@@ -68,6 +100,8 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Node.js Recipes
 * Pro Node.js for Developers
 * [expressjs-book](http://expressjs-book.com/)
+* [Node.js for PHP Developers](http://it-ebooks.info/book/1343/)
+* [Using Node.js for UI Testing](http://it-ebooks.info/book/2785/)
 
 # PPT
 In the PPT folder.
