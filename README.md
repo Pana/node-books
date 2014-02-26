@@ -53,23 +53,9 @@ If you already know JavaScript and are curious about the power of Node.js, then 
 
 A comprehensive Node.js tutorial for beginners: Learn how to build a full blown web application with server-side JavaScript.
 
-### [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
-An early node.js beginner guide.
-
-
-### [Node.js 开发指南](http://book.douban.com/subject/10789820/)
-![](http://img5.douban.com/mpic/s10307479.jpg)
-
-清华大学计算机系2010级本科生郭家寶（BYVoid），在校期间编写的一本Node.js入门书籍, 这是第一本原创中文书籍.
-是国内许多Node.js开发者引路书.
-
-### [Node 入门经典](http://book.douban.com/subject/23780706/)
-![](http://img5.douban.com/mpic/s26588828.jpg)
-
-一本入门级Node.js图书,
-
-
 ### [Art of node](https://github.com/maxogden/art-of-node)
+<img src='https://github.com/rvagg/learnyounode/raw/master/learnyounode.png' width='400'>
+
 This is a github repository book, provice and a short introduction to node.js and interactive way learning Node.js
 
 
@@ -102,6 +88,7 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * [expressjs-book](http://expressjs-book.com/)
 * [Node.js for PHP Developers](http://it-ebooks.info/book/1343/)
 * [Using Node.js for UI Testing](http://it-ebooks.info/book/2785/)
+* [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
 
 # PPT
 In the PPT folder.
