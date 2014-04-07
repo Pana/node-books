@@ -89,6 +89,8 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * [Node.js for PHP Developers](http://it-ebooks.info/book/1343/)
 * [Using Node.js for UI Testing](http://it-ebooks.info/book/2785/)
 * [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
+* [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun)
+* [visionmedia masteringnode](http://visionmedia.github.io/masteringnode/)
 
 # PPT
 In the PPT folder.
@@ -114,6 +116,8 @@ In the PPT folder.
 * [The nodejs recipe](http://www.amazon.com/Node-js-Recipes-A-Problem-Solution-Approach/dp/1430260580/ref=sr_1_18?ie=UTF8&qid=1388627125&sr=8-18&keywords=nodejs)
 * [Hands on nodejs](http://nodetuts.com/handson-nodejs-book.html)
 * [Node security](http://www.packtpub.com/secure-your-node-applications-with-node-security/book)
+* [5 Free Beginner Friendly Books for Learning Node.js](http://codecondo.com/5-free-beginner-friendly-books-learning-node-js/)
+* [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 
 # TODO
 
