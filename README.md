@@ -118,6 +118,7 @@ In the PPT folder.
 * [Node security](http://www.packtpub.com/secure-your-node-applications-with-node-security/book)
 * [5 Free Beginner Friendly Books for Learning Node.js](http://codecondo.com/5-free-beginner-friendly-books-learning-node-js/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+* [Node.js the Right way](http://www.ppurl.com/2014/03/node-js-the-right-way.html)
 
 # TODO
 
