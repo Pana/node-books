@@ -85,12 +85,15 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Node入门
 * Node.js Recipes
 * Pro Node.js for Developers
+* Node 即学即用
+* Node.js the Right Way
 * [expressjs-book](http://expressjs-book.com/)
 * [Node.js for PHP Developers](http://it-ebooks.info/book/1343/)
 * [Using Node.js for UI Testing](http://it-ebooks.info/book/2785/)
 * [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun)
 * [visionmedia masteringnode](http://visionmedia.github.io/masteringnode/)
+* [Node.js Manual & Documentation](https://github.com/zeMirco/nodejs-pdf-docs)
 
 # PPT
 In the PPT folder.
