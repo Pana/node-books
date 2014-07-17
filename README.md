@@ -8,8 +8,9 @@ If you are a new guy to JavaScript world, there are also some JavaScript books i
 
 # Recommendation
 
-### [Node.js Products and Expertise]()
+### [Node.js Products and Expertise](http://refcardz.dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
 The Essential Node.js Cheat Sheet. Node.js is a set of libraries for writing high-performance, scalable network programs in JavaScript. It has an asynchronous programming model for lightning-fast speeds, and it allows programs to run JavaScript on the server-side so that both client and server can run using the same language. Recently updated for v0.12, this Refcard covers architecture, installation, API guide, developer tools, and more.
+![](http://book.rednode.cn/covers/Node.js-Products-and-Expertise.png)
 
 ### [Express Web Application development](http://expressjs-book.com/)
 ![](http://expressjs-book.com/wp-content/themes/ewad/book.png)
