@@ -10,38 +10,18 @@
     <meta name='author' content='Pana Wang'/>
     <link rel="stylesheet" type="text/css" href="./assets/pure-min.css">
     <link rel="stylesheet" type="text/css" href="./assets/style.css">
-    <script type="text/javascript" src="./assets/ejs.min.js"></script>
-    <script type="text/javascript" src="./assets/data.js"></script>
     <!--[if lt IE 9]>
       <script src="/assets/html5shiv.js"></script>
     <![endif]-->
-
-    <!-- 渲模板 -->
-    <script type="text/javascript">
-        window.onload = function(){
-            var template = document.getElementById('book_item').text
-                , body = document.getElementById('body')
-
-            console.log(ejs.render(template, {books: book_data}))
-            body.innerHTML = ejs.render(template, {books: book_data})
-        }
-    </script>
-
 </head>
 <body>
     <header>
         <h1>Node.js Books</h1>  <p>--- For those who love Node.js</p>      
     </header>
     <div class='info'>
-        共20本书, 4本中文, 更多内容 Fork me on Github
+        共28本书, 4本中文, 更多内容 Fork me on Github
     </div>
     <div id='body'>
-    </div>
-    <footer>
-        &copy; <a href='mailto:support@rednode.cn'>RedNode</a> 2014
-    </footer>
-    <!-- 模板 -->
-    <script type="text/template" id='book_item'>
         <% for(var i in books){ %>
         <% var book = books[i]; %>
         <div class='item'>
@@ -68,7 +48,10 @@
             <div class='clear'></div>
         </div>
         <%}%>
-    </script>
+    </div>
+    <footer>
+        &copy; <a href='mailto:support@rednode.cn'>RedNode</a> 2014
+    </footer>
     <!-- github ribbon-->
     <a href="https://github.com/pana/node-books" target="_blank">
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="./assets/forkme_right_green_007200.png" alt="Fork me on GitHub">
@@ -78,10 +61,8 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
       ga('create', 'UA-46116808-4', 'rednode.cn');
       ga('send', 'pageview');
-
     </script>
 </body>
 </html>

@@ -4,7 +4,7 @@ var book_data = [{
     "author": "StrongLoop",
     "press_date": "2014",
     "press": "其他",
-    "page_num": "",
+    "page_num": "100",
     "image": "Nodejs-products-and-expertise.png",
     "ISBN": ""
 },{
@@ -256,3 +256,5 @@ var book_data = [{
     "image": "getting_started_with_geo_nodejs.jpg",
     "ISBN": "978-1-4493-0751-6"
 }]
+
+module.exports = book_data
