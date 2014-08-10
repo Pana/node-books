@@ -133,6 +133,10 @@ In the PPT folder.
 * [5 Free Beginner Friendly Books for Learning Node.js](http://codecondo.com/5-free-beginner-friendly-books-learning-node-js/)
 * [Node: Up and Running](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
 * [Node.js the Right way](http://www.ppurl.com/2014/03/node-js-the-right-way.html)
+* [Node.js 开发实战讲解](http://item.jd.com/1123966982.html)
+* [Node.js 实战](http://item.jd.com/1125616846.html)
+* [Node.js 实战](http://www.amazon.cn/dp/B00JPVNIFY)
+* [Node.js 权威指南](http://item.jd.com/11447846.html)
 
 # TODO
 
