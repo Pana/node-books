@@ -1,4 +1,58 @@
 var book_data = [{
+    "href": "http://refcardz.dzone.com/refcardz/nodejs#refcard-download-social-buttons-display",
+    "name": "Node.js Products and Expertise",
+    "author": "StrongLoop",
+    "press_date": "2014",
+    "press": "其他",
+    "page_num": "",
+    "image": "Nodejs-products-and-expertise.png",
+    "ISBN": ""
+},{
+    "href": "http://www.ppurl.com/2014/08/learning-node-js.html",
+    "name": "Learning Node.js",
+    "author": "Marc Wandschneider",
+    "press_date": "June 29, 2013",
+    "press": "Addison Wesley",
+    "page_num": "304",
+    "image": "learning-nodejs.jpg",
+    "ISBN": "0321910575"
+},{
+    "href": "http://www.ppurl.com/2014/07/web-development-with-node-and-express-mobi.html",
+    "name": "Web development with Express&Node",
+    "author": "Ethan Brown",
+    "press_date": "July 25, 2014",
+    "press": "O'Reilly",
+    "page_num": "339",
+    "image": "web-development-with-node-express.png",
+    "ISBN": "1491949309"
+},{
+    "href": "http://www.ppurl.com/2014/07/mastering-node-js.html",
+    "name": "Mastering Node.js",
+    "author": "Sandro Pasquali",
+    "press_date": "November 2013",
+    "press": "其他",
+    "page_num": "346",
+    "image": "mastering-nodejs.jpg",
+    "ISBN": "9781782166320"
+},{
+    "href": "http://www.ppurl.com/2014/06/javascript-and-node-fundamentals.html",
+    "name": "Javascript and Node fundamentals",
+    "author": "Azat Mardan",
+    "press_date": "2014-4-15",
+    "press": "其他",
+    "page_num": "79",
+    "image": "javascript-and-node-fundamentals.jpg",
+    "ISBN": "98775-159488882"
+},{
+    "href": "http://www.ppurl.com/2014/06/hands-on-node-js.html",
+    "name": "Hands on Node.js",
+    "author": "Pedro Teixeira",
+    "press_date": "2013-12-28",
+    "press": "其他",
+    "page_num": "42",
+    "image": "hands-on-nodejs.jpg",
+    "ISBN": "936-4564654892"
+},{
     "href": "http://book.douban.com/subject/25768396/",
     "name": "深入浅出Node.js",
     "author": "田永强",
