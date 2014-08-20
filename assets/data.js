@@ -8,6 +8,16 @@ var book_data = [{
     "image": "Nodejs-products-and-expertise.png",
     "ISBN": ""
 },{
+	"href":
+	"http://www.amazon.com/Express-js-Guide-The-Comprehensive-Book/dp/1494269279/ref=sr_1_11?ie=UTF8&qid=1408496754&sr=8-11&keywords=express",
+	"name": "Express.js Guide: The Comprehensive Book on Express.js",
+	"author": "Azat Mardanov",
+	"press_date": "November 23, 2013",
+	"press": "CreateSpace Independent Publishing Platform",
+	"page_num": "340",
+	"image": "express-guide.jpeg",
+	"ISBN": "1494269279"
+},{
     "href": "http://www.ppurl.com/2014/08/learning-node-js.html",
     "name": "Learning Node.js",
     "author": "Marc Wandschneider",
