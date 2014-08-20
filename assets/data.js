@@ -15,7 +15,7 @@ var book_data = [{
 	"press_date": "November 23, 2013",
 	"press": "CreateSpace Independent Publishing Platform",
 	"page_num": "340",
-	"image": "express-guide.jpeg",
+	"image": "expressjs-guide.jpeg",
 	"ISBN": "1494269279"
 },{
     "href": "http://www.ppurl.com/2014/08/learning-node-js.html",
