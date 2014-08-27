@@ -104,6 +104,7 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * [JavaScript and Node FUNdamentals](https://leanpub.com/jsfun)
 * [visionmedia masteringnode](http://visionmedia.github.io/masteringnode/)
 * [Node.js Manual & Documentation](https://github.com/zeMirco/nodejs-pdf-docs)
+* [uvbook](http://nikhilm.github.io/uvbook/)
 
 # PPT
 In the PPT folder.
