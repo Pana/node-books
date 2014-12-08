@@ -79,8 +79,6 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Node Cookbook
 * Node.js In Action
 * Build node application with mongodb and backbone
-* Hypermedia apis with html5&node
-* Jump start node js
 * Node for front end developer
 * Node up and running
 * Node web development
@@ -97,6 +95,16 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Pro Node.js for Developers
 * Node 即学即用
 * Node.js the Right Way
+* Jump start node js
+* [Building Hypermedia APIs with HTML5 and Node](http://shop.oreilly.com/product/0636920020530.do)
+* [Building Node Applications with MongoDB and Backbone](http://shop.oreilly.com/product/0636920026587.do)
+* [Learning Node.js](http://www.amazon.com/Learning-Node-js-Hands-On-Applications-JavaScript/dp/0321910575)
+* [Node Cookbook, 2nd Edition](https://www.packtpub.com/web-development/node-cookbook-second-edition)
+* [Node.js Recipes](http://www.apress.com/9781430260585)
+* [Beginning Node.js](http://www.apress.com/9781484201886)
+* [Practical Node.js](http://www.apress.com/9781430265955)
+* [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
+* [Programming JavaScript Applications](http://shop.oreilly.com/product/0636920033141.do)
 * [expressjs-book](http://expressjs-book.com/)
 * [Node.js for PHP Developers](http://it-ebooks.info/book/1343/)
 * [Using Node.js for UI Testing](http://it-ebooks.info/book/2785/)
