@@ -128,6 +128,7 @@ In the PPT folder.
 
 # Resource
 
+* [nodeschool.io](http://nodeschool.io/)
 * [nodebook](http://nodebook.lexogram.com:5555/)
 * [Github node book repositories](https://github.com/search?q=node+book&ref=cmdform)
 * [free develop books--node](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#nodejs)
@@ -154,8 +155,8 @@ In the PPT folder.
 
 # TODO
 
-* Collect more books
-* Add simple intro to books
+- [ ] Collect more books
+- [ ] Add simple intro to books
 
 
 # Contribute
