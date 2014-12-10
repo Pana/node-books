@@ -152,6 +152,12 @@ In the PPT folder.
 * [Node.js 实战](http://item.jd.com/1125616846.html)
 * [Node.js 实战](http://www.amazon.cn/dp/B00JPVNIFY)
 * [Node.js 权威指南](http://item.jd.com/11447846.html)
+* [Apress Node.js Book Search](http://www.apress.com/catalogsearch/result/?q=Node.js&submit=Go)
+* [PacktPub Node.js Book Search](https://www.packtpub.com/all/?search=node)
+* [dummies Node.js Book Search](http://www.dummies.com/search.html?query=node.js)
+* [O'Reilly Node.js Book Search](http://search.oreilly.com/?i=1;q=node;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
+* [Wiley Node.js Book Search](http://as.wiley.com/WileyCDA/Section/id-WILEYASIA2_SEARCH_RESULT.html?query=node.js)
+* [Amazon Node.js Book Search](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=node.js)
 
 # TODO
 
