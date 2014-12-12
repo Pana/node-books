@@ -113,6 +113,7 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * [visionmedia masteringnode](http://visionmedia.github.io/masteringnode/)
 * [Node.js Manual & Documentation](https://github.com/zeMirco/nodejs-pdf-docs)
 * [uvbook](http://nikhilm.github.io/uvbook/)
+* [Full Stack Web Development with Backbone.js](http://pipefishbook.com/references) by Patrick Mulder
 
 # PPT
 In the PPT folder.
