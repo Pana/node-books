@@ -8,6 +8,9 @@ If you are a new guy to JavaScript world, there are also some JavaScript books i
 
 # Recommendation
 
+### [DevFreeBooks - nodejs](http://devfreebooks.org/nodejs/)
+There several node books here, they are all free, and keep on growing: Node.js Succinctly, JavaScript and Node FUNdamentals, Your first app: node.js
+
 ### [Node.js Products and Expertise](http://refcardz.dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
 The Essential Node.js Cheat Sheet. Node.js is a set of libraries for writing high-performance, scalable network programs in JavaScript. It has an asynchronous programming model for lightning-fast speeds, and it allows programs to run JavaScript on the server-side so that both client and server can run using the same language. Recently updated for v0.12, this Refcard covers architecture, installation, API guide, developer tools, and more.
 
@@ -38,10 +41,10 @@ Node.js in Action is an example-driven tutorial that starts at square one and gu
 ### [Smashing Node.js](http://smashingnode.com/)
 ![](http://img3.douban.com/mpic/s27132823.jpg)
 
-Highlights: 
+Highlights:
 
-* Special foreword by the creator of V8, Lars Bak. 
-* Examples with real-world web services like Twitter. 
+* Special foreword by the creator of V8, Lars Bak.
+* Examples with real-world web services like Twitter.
 * Learn how to build a Turntable.FM style app with socket.io.
 * Teaches JavaScript best pratices that apply to all environments.
 
@@ -168,4 +171,3 @@ In the PPT folder.
 
 # Contribute
 If you find some new, good books or PPT, feel free to fork and pull or email me `pana.wang@outlook.com`, we will appreciate for your contribution.
-
