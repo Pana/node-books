@@ -1,10 +1,10 @@
 Node.js/io.js Books
 ======
-This is the most complete  Node.js books collection ever. There are more than twenty books here, most are written in English, and some are written in Chinese. Some are introduction books that can help you get the basic things about Node.js, such as `Node.js开发指南`, `Node.js in action`, `Learning Node`. Some are pro books can lead you to Node.js deep things, such as `深入浅出Node.js`, `Professional nodejs`, `Pro Node.js for Developers`. No matter what kind developer you are, you can find book right for you. There are also some book links on Amazon, Douban and other sites.
+This is the most complete  Node.js books collection ever. There are more than twenty books here, most written in English, and some in Chinese. Some are introduction books that can help you get the basic things about Node.js, such as `Node.js开发指南`, `Node.js in action`, `Learning Node`. Some are pro books can lead you to Node.js deep things, such as `深入浅出Node.js`, `Professional nodejs`, `Pro Node.js for Developers`. No matter what kind of developer you are, you can find the book right for you. There are also some book links on Amazon, Douban and other sites.
 
 For whole book list and details visit [here](http://book.rednode.cn).
 
-If you are a new guy to JavaScript world, there are also some JavaScript books in `Js-books` folder can help you.
+If you are a new guy to the JavaScript world, there are also some JavaScript books in `Js-books` folder can help you.
 
 # Recommendation
 
@@ -51,7 +51,7 @@ Highlights:
 ### [Professional Node.js](http://it-ebooks.info/book/984/)
 ![](http://it-ebooks.info/images/ebooks/2/professional_node.js.jpg)
 
-Node.js is a powerful and popular new framework for writing scalable network programs using JavaScript. This no nonsense book begins with an overview of Node.js and then quickly dives into the code, core concepts, and APIs. In-depth coverage pares down the essentials to cover debugging, unit testing, and flow control so that you can start building and testing your own modules right away.
+Node.js is a powerful and popular new framework for writing scalable network programs using JavaScript. This no-nonsense book begins with an overview of Node.js and then quickly dives into the code, core concepts, and APIs. In-depth coverage pares down the essentials to cover debugging, unit testing, and flow control so that you can start building and testing your own modules right away.
 
 If you already know JavaScript and are curious about the power of Node.js, then this is the ideal book for you.
 
@@ -64,7 +64,7 @@ A comprehensive Node.js tutorial for beginners: Learn how to build a full blown 
 ### [Art of node](https://github.com/maxogden/art-of-node)
 <img src='https://github.com/rvagg/learnyounode/raw/master/learnyounode.png' width='400'>
 
-This is a github repository book, provice and a short introduction to node.js and interactive way learning Node.js
+This is a github repository book, providing a short introduction to node.js and an interactive way of learning Node.js
 
 
 # Book list
@@ -170,4 +170,4 @@ In the PPT folder.
 
 
 # Contribute
-If you find some new, good books or PPT, feel free to fork and pull or email me `pana.wang@outlook.com`, we will appreciate for your contribution.
+If you find some new, good books or PPT, feel free to fork and pull or email me `pana.wang@outlook.com`, we will appreciate your contribution.
