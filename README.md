@@ -99,6 +99,7 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Node 即学即用
 * Node.js the Right Way
 * Jump start node js
+* [Node.js in Practice](http://www.manning.com/young/)
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262)
 * [Building Hypermedia APIs with HTML5 and Node](http://shop.oreilly.com/product/0636920020530.do)
 * [Building Node Applications with MongoDB and Backbone](http://shop.oreilly.com/product/0636920026587.do)
