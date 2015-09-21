@@ -70,6 +70,7 @@ This is a github repository book, providing a short introduction to node.js and 
 # Book list
 For details you can visit [Github Page](https://book.rednode.cn)
 
+* [Node.js tutorial(udemy)](https://blog.udemy.com/node-js-tutorial/) 
 * Hands on Node.js
 * Javascript and Node fundamentals
 * Mastering Node.js
