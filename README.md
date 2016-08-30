@@ -164,6 +164,7 @@ In the PPT folder.
 * [O'Reilly Node.js Book Search](http://search.oreilly.com/?i=1;q=node;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 * [Wiley Node.js Book Search](http://as.wiley.com/WileyCDA/Section/id-WILEYASIA2_SEARCH_RESULT.html?query=node.js)
 * [Amazon Node.js Book Search](http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=node.js)
+* [Node Web Development 2nd Edition](https://ebooks-it.org/1782163301-ebook.htm)
 
 # TODO
 
