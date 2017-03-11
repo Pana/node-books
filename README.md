@@ -1,4 +1,4 @@
-Node.js/io.js Books
+Node.js Books
 ======
 This is the most complete  Node.js books collection ever. There are more than twenty books here, most written in English, and some in Chinese. Some are introduction books that can help you get the basic things about Node.js, such as `Node.js开发指南`, `Node.js in action`, `Learning Node`. Some are pro books can lead you to Node.js deep things, such as `深入浅出Node.js`, `Professional nodejs`, `Pro Node.js for Developers`. No matter what kind of developer you are, you can find the book right for you. There are also some book links on Amazon, Douban and other sites.
 
