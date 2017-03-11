@@ -14,8 +14,6 @@ There several node books here, they are all free, and keep on growing: Node.js S
 ### [Node.js Products and Expertise](http://refcardz.dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
 The Essential Node.js Cheat Sheet. Node.js is a set of libraries for writing high-performance, scalable network programs in JavaScript. It has an asynchronous programming model for lightning-fast speeds, and it allows programs to run JavaScript on the server-side so that both client and server can run using the same language. Recently updated for v0.12, this Refcard covers architecture, installation, API guide, developer tools, and more.
 
-<img src='http://thepana.com/node-books/covers/Nodejs-products-and-expertise.png' width='300'>
-
 ### [Express Web Application development](http://expressjs-book.com/)
 ![](http://expressjs-book.com/wp-content/themes/ewad/book.png)
 
@@ -26,20 +24,17 @@ Express is recognized as one of the most preferred web frameworks for Node.js. E
 The book is both beginner-friendly and technically deep at the same time, and covers everything a developer requires to get into serious web development using Express.
 
 ### [Node.js in action](http://www.manning.com/cantelon/)
-![](http://img3.douban.com/mpic/s27194543.jpg)
 
 Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.
 
 
 ### [深入浅出Node.js (Diving into Node.js)](http://book.douban.com/subject/25768396/)
-![](http://img5.douban.com/mpic/s27134708.jpg)
 
 国内 Node.js 步道者朴灵花费多年时间编写的高级 Node.js 图书, 2013年国内最火原创图书. 深入介绍了Node.js内部机制原理
 异步IO, 事件循环, 模块系统, http等, 对Node.js主要部分都进行了深入的介绍和剖析, 是Node.js开发者绝对不能错过的
 高级书籍.
 
 ### [Smashing Node.js](http://smashingnode.com/)
-![](http://img3.douban.com/mpic/s27132823.jpg)
 
 Highlights:
 
