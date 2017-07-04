@@ -8,7 +8,7 @@ If you are a new guy to the JavaScript world, there are also some JavaScript boo
 
 # Recommendation
 
-### [DevFreeBooks - nodejs](http://devfreebooks.org/nodejs/)
+### [DevFreeBooks - nodejs](https://devfreebooks.github.io/nodejs/)
 There several node books here, they are all free, and keep on growing: Node.js Succinctly, JavaScript and Node FUNdamentals, Your first app: node.js
 
 ### [Node.js Products and Expertise](http://refcardz.dzone.com/refcardz/nodejs#refcard-download-social-buttons-display)
