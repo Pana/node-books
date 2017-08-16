@@ -27,6 +27,9 @@ The book is both beginner-friendly and technically deep at the same time, and co
 
 Node.js in Action is an example-driven tutorial that starts at square one and guides you through all the features, techniques, and concepts you'll need to build production-quality Node applications. You'll start by learning how to set up your Node development environment, including loading the community-created extensions. Next, you'll run several simple demonstration programs where you'll learn the basics of a few common types of Node applications. Then you'll dive into asynchronous programming, a model Node leverages to lessen application bottlenecks.
 
+### [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
+
+Get Programming with Node.js teaches you to write server-side code in JavaScript using Node.js. In 34 fast-paced, fun, and practical lessons, you'll discover how to extend your existing JavaScript skills to write back-end code for your web applications. After setting up the perfect developer environment, you'll get straight into developing your first app using Express.js, a lightweight MVC-style web framework. You'll learn all-important security and authentication features, as well as database tasks. When your basic app is completed, you'll add extra functionality like chat before deploying the finished product. Thanks to the easy-to-digest examples and exercises, you'll be coding with Node.js like a pro in no time!
 
 ### [深入浅出Node.js (Diving into Node.js)](http://book.douban.com/subject/25768396/)
 
@@ -77,6 +80,7 @@ For details you can visit [Github Page](https://book.rednode.cn)
 * Smashing Node.js (有Goddy Zhao的中文翻译版)
 * Node Cookbook
 * Node.js In Action
+* [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 * Build node application with mongodb and backbone
 * Node for front end developer
 * Node up and running
