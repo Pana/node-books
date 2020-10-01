@@ -169,3 +169,4 @@ In the PPT folder.
 
 # Contribute
 If you find some new, good books or PPT, feel free to fork and pull or email me `pana.wang@outlook.com`, we will appreciate your contribution.
+This is a very useful site for all of us. I recommmended to all of you to use this site. 
